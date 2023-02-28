@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  },
+  "name": "commison-nogameandnolife",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CanineData62816/Commison-NoGameAndNoLife.git"
+  },
+  "author": "CanineData",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CanineData62816/Commison-NoGameAndNoLife/issues"
+  },
+  "homepage": "https://github.com/CanineData62816/Commison-NoGameAndNoLife#readme",
+  "type": "module"
+}
